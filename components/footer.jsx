@@ -1,9 +1,9 @@
 import Link from "next/link"
 import Container from "./container"
 import { Logo } from "./Icons/logo"
-import { GithubIcon } from "./icons/Github";
-import { SlackIcon } from "./icons/Slack";
-import { TwitterIcon } from "./icons/Twitter";
+import { GithubIcon } from "./icons/Github.jsx";
+import { SlackIcon } from "./icons/Slack.jsx";
+import { TwitterIcon } from "./icons/Twitter.jsx";
 const footerlink = [
     {
         title: "Product",

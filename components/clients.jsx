@@ -1,15 +1,15 @@
-import { AlanLogo } from "./logos/alan";
-import { ArcLogo } from "./logos/arc";
-import { CashAppLogo } from "./logos/cashapp";
-import { DescriptLogo } from "./logos/descript";
-import { LoomLogo } from "./logos/loom";
-import { MercuryLogo } from "./logos/mercury";
-import { OpenSeaLogo } from "./logos/opensea";
-import { PitchLogo } from "./logos/pitch";
-import { RampLogo } from "./logos/ramp";
-import { RaycastLogo } from "./logos/raycast";
-import { RetoolLogo } from "./logos/retool";
-import { VercelLogo } from "./logos/vercel";
+import { AlanLogo } from "./logos/alan.jsx";
+import { ArcLogo } from "./logos/arc.jsx";
+import { CashAppLogo } from "./logos/cashapp.jsx";
+import { DescriptLogo } from "./logos/descript.jsx";
+import { LoomLogo } from "./logos/loom.jsx";
+import { MercuryLogo } from "./logos/mercury.jsx";
+import { OpenSeaLogo } from "./logos/opensea.jsx";
+import { PitchLogo } from "./logos/pitch.jsx";
+import { RampLogo } from "./logos/ramp.jsx";
+import { RaycastLogo } from "./logos/raycast.jsx";
+import { RetoolLogo } from "./logos/retool.jsx";
+import { VercelLogo } from "./logos/vercel.jsx";
 
 const Clients = () => {
     return (
