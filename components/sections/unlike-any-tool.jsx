@@ -2,6 +2,7 @@ import React from 'react'
 import { ZapIllustration } from '../illustrations/zap'
 import { LogoLightIllustration } from './logo-light'
 import Button from '../button'
+
 import KeyboardShortcuts from '../keyboard-shortcuts'
 const UnlikeAnyTool = () => {
     return (
@@ -25,7 +26,7 @@ const UnlikeAnyTool = () => {
                         <p className='mb-4 text-3xl'>Breathtakingly fast</p>
                         <p className='text-md text-primary-text'>Built for speed with 50ms interactions and real-time sync.</p>
                     </div>
-                    <div className='shrink-0 group relative w-full flex flex-col items-center justify-end bg-glass-gradient border-white-a08 rounded-[4.8rem] md:basis-[calc(33.33%-12px)] p-8 md:p-14 snap-center min-h-[48rem] overflow-hidden'>
+                    <div className='shrink-0 group relative w-full flex flex-col items-center justify-end bg-glass-gradient border-white-a08 rounded-[4.8rem] md:basis-[calc(33.33%-12px)] p-8 md:p-14 snap-center min-h-[40rem] overflow-hidden'>
                         <div className='width-[130%] absolute top-[-8rem]'><LogoLightIllustration /></div>
                         <p className='mb-4 text-3xl'>Designed for modern software teams</p>
                         <p className='text-md text-primary-text'>Comes with built-in workflows that create focus and routine.</p>

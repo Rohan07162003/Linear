@@ -8,6 +8,7 @@ import HeroImage from "@/components/Hero-image";
 import classNames from "classnames";
 import { StarsIllustration } from "@/components/Icons/stars";
 import UnlikeAnyTool from "@/components/sections/unlike-any-tool";
+import Enjoy from "@/components/sections/enjoy";
 export default function HomePage() {
   return (
     <div>
@@ -46,12 +47,15 @@ export default function HomePage() {
         "after:absolute after:h-[142%] after:bg-background after:rounded-[50%] after:border-[rgba(120,_119,_198,_0.4)] after:border-t after:top-1/2 after:-left-1/2 after:w-[200%]"
       )}>
         <div className="ml-[20rem]">
-        <StarsIllustration />
+          <StarsIllustration />
         </div>
       </div>
       <Container>
-        <UnlikeAnyTool/>
+        <UnlikeAnyTool />
       </Container>
+      <div className="my-[25.2rem]">
+      <Enjoy/>
+      </div>
     </div>
   );
 }
