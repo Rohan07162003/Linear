@@ -9,7 +9,7 @@ import {
     IssuesIcon,
     ParentSubIcon,
     WorkflowsIcon,
-  } from "../icons/features";
+  } from "../icons/Features";
 
   const Enjoy = () => {
 
