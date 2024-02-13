@@ -2,11 +2,7 @@
 
 import React from 'react'
 import Features from '../features';
-import { MercuryLogo,AutomatedBacklogIcon,CustomViewsIcon } from "../logos/mercury.jsx";
-import { DiscussionIcon } from '../icons/features/discussion.jsx';
-import { IssuesIcon } from '../icons/features/issues.jsx';
-import { ParentSubIcon } from '../icons/features/parent-sub.jsx';
-import { WorkflowsIcon } from '../icons/features/workflows.jsx';
+import { MercuryLogo,AutomatedBacklogIcon,CustomViewsIcon,DiscussionIcon,IssuesIcon,ParentSubIcon,WorkflowsIcon } from "../logos/mercury.jsx";
 
   const Enjoy = () => {
 
