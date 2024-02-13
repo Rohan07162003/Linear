@@ -3,12 +3,12 @@
 import React from 'react'
 import Features from '../features';
 import { MercuryLogo } from "../logos/mercury.jsx";
-import { AutomatedBacklogIcon } from '../icons/Features/automated-backlog.jsx';
-import { CustomViewsIcon } from '../icons/Features/custom-views.jsx';
-import { DiscussionIcon } from '../icons/Features/discussion.jsx';
-import { IssuesIcon } from '../icons/Features/issues.jsx';
-import { ParentSubIcon } from '../icons/Features/parent-sub.jsx';
-import { WorkflowsIcon } from '../icons/Features/workflows.jsx';
+import { AutomatedBacklogIcon } from '../icons/features/automated-backlog.jsx';
+import { CustomViewsIcon } from '../icons/features/custom-views.jsx';
+import { DiscussionIcon } from '../icons/features/discussion.jsx';
+import { IssuesIcon } from '../icons/features/issues.jsx';
+import { ParentSubIcon } from '../icons/features/parent-sub.jsx';
+import { WorkflowsIcon } from '../icons/features/workflows.jsx';
 
   const Enjoy = () => {
 
