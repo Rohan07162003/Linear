@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react'
 import Features from '../features';
 import {
@@ -8,10 +10,11 @@ import {
     ParentSubIcon,
     WorkflowsIcon,
   } from "../icons/features";
-const Enjoy = () => {
+
+  const Enjoy = () => {
 
   return (
-    <Features color="194,97,254" >
+    <Features color="194,97,254" colorDark="53,42,79">
         <Features.Main text="Create tasks in seconds, discuss issues in context, and breeze through your work in views tailored to you and your team." image="/issues.webp" 
         title={
           <>
