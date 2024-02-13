@@ -2,14 +2,12 @@
 
 import React from 'react'
 import Features from '../features';
-import {
-    AutomatedBacklogIcon,
-    CustomViewsIcon,
-    DiscussionIcon,
-    IssuesIcon,
-    ParentSubIcon,
-    WorkflowsIcon,
-  } from "../icons/Features";
+import { AutomatedBacklogIcon } from '../icons/Features/automated-backlog.jsx';
+import { CustomViewsIcon } from '../icons/Features/custom-views.jsx';
+import { DiscussionIcon } from '../icons/Features/discussion.jsx';
+import { IssuesIcon } from '../icons/Features/issues.jsx';
+import { ParentSubIcon } from '../icons/Features/parent-sub.jsx';
+import { WorkflowsIcon } from '../icons/Features/workflows.jsx';
 
   const Enjoy = () => {
 
