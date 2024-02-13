@@ -2,9 +2,7 @@
 
 import React from 'react'
 import Features from '../features';
-import { MercuryLogo } from "../logos/mercury.jsx";
-import { AutomatedBacklogIcon } from '../icons/features/automated-backlog.jsx';
-import { CustomViewsIcon } from '../icons/features/custom-views.jsx';
+import { MercuryLogo,AutomatedBacklogIcon,CustomViewsIcon } from "../logos/mercury.jsx";
 import { DiscussionIcon } from '../icons/features/discussion.jsx';
 import { IssuesIcon } from '../icons/features/issues.jsx';
 import { ParentSubIcon } from '../icons/features/parent-sub.jsx';
